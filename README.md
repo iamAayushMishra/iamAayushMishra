@@ -13,4 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaayushmishra&show_icons=true&locale=en" alt="iamaayushmishra" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaayushmishra&show_icons=true&locale=en" alt="iamaayushmishra" /></p> -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamAayushMishra&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
