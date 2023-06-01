@@ -1,18 +1,27 @@
-<h1 align="center">Hi 👋, I'm Aayush Mishra</h1>
-<h3 align="center">A highSchool programmer from India</h3>
 
-- 🔭 I’m currently working on [Jarvis](https://discord.com/oauth2/authorize?client_id=859656056660819988&permissions=8&scope=bot%20applications.commands)
+<img src="https://github.com/iamAayushMishra.png" alt="Profile Picture" width="150" />
 
-- 🌱 I’m currently learning **python**
+# Hi there! 👋 I'm Aayush Mishra
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhaukal_hai_yrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaukal_hai_yrr" height="30" width="40" /></a> Bhaukal_hai_yrr 
-</p>
+I'm a student passionate about technology, currently learning and exploring different programming languages. 🌟
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Languages
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaayushmishra&show_icons=true&locale=en" alt="iamaayushmishra" /></p> -->
+<!-- Add logos of the languages you know/learning -->
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="30" /> <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width="30" /> <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="30" /> <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" width="30" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamAayushMishra&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+## GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamAayushMishra&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## About Me
+
+- 🌍 Based in India 🇮🇳
+- 🎓 Studying and exploring the world of technology
+- 🚀 Passionate about coding, problem-solving, and learning new things
+
+Feel free to connect with me or explore the projects I've been working on. Let's learn and grow together! 😄
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-iamAayushMishra-black?style=flat&logo=github)](https://github.com/iamAayushMishra)
+
+<!-- Add other badges or additional sections if desired -->
