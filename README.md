@@ -1,5 +1,5 @@
 
-<img src="https://github.com/iamAayushMishra.png" alt="Profile Picture" width="150" />
+<!-- <img src="https://github.com/iamAayushMishra.png" alt="Profile Picture" width="150" /> -->
 
 # Hi there! 👋 I'm Aayush Mishra
 
